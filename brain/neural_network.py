@@ -7,7 +7,7 @@ HIDDEN_LAYER_1 = 32
 HIDDEN_LAYER_2 = 16
 OUPUTS = 20
 
-MUTATION_STD = 0.1      # magnitude of noise added when cloning
+MUTATION_STD = 0.5      # magnitude of noise added when cloning
 
 def init_model():
     model = models.Sequential([

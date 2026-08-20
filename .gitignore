@@ -1,1 +1,3 @@
 __pycache__
+tracking/logs/*.csv
+tracking/checkpoints/*.keras
