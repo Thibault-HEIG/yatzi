@@ -1,1 +1,1 @@
-# yatzi
+# Yatzi
